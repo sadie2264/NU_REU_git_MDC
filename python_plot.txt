@@ -1,1 +1,1 @@
-here is some code to rune in pythin. it is suposed to be a script graphing sin x from 0-2pii
+here is some code to rune in python that will run cos x form 0 to 2Pi
