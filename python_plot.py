@@ -1,3 +1,4 @@
+
 #here is some code to rune in python that will run cos x form 0 to 2Pi
 
 #here is some code to rune in python that will run cos x form 0 to 2Pi
@@ -12,9 +13,6 @@ f,ax = plt.subplots(figsize = (8,5))
 ax.plot(x,y, c = '#99badd')
 ax.set_xlabel('x')
 ax.set_ylabel('y')
-
-
-
 
 
 
